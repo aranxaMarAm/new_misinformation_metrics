@@ -4,5 +4,6 @@ matplotlib
 seaborn
 scipy
 scikit-learn
+sklearn.preprocessing
 rpy2
 geopandas
