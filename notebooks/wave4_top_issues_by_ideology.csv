@@ -1,0 +1,11 @@
+Ideology_1,Ideology_2,Ideology_3,Ideology_4
+F119_oppose,E069_07_oppose,F121_support,A124_06_support
+F123_oppose,E069_06_oppose,F122_support,A124_07_support
+A124_02_oppose,E069_08_oppose,A124_09_oppose,A124_09_support
+F118_oppose,E069_05_oppose,A124_07_oppose,A124_02_support
+F117_oppose,E069_04_oppose,A124_02_oppose,F118_oppose
+G006_support,E069_13_oppose,F120_support,F119_oppose
+F116_oppose,F117_oppose,A124_06_oppose,A124_08_support
+F120_oppose,F123_oppose,F118_support,F123_oppose
+F115_oppose,A124_02_oppose,G006_support,G006_support
+F114A_oppose,F116_oppose,F117_oppose,C002_support
