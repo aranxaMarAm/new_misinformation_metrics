@@ -5,5 +5,7 @@ seaborn
 scipy
 scikit-learn
 sklearn.preprocessing
+sklearn
 rpy2
 geopandas
+joblib
