@@ -9,3 +9,4 @@ sklearn
 rpy2
 geopandas
 joblib
+plotly
