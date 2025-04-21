@@ -10,3 +10,5 @@ rpy2
 geopandas
 joblib
 plotly
+nbformat>=4.2.0
+plotly.express
