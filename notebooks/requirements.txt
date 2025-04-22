@@ -4,5 +4,14 @@ matplotlib
 seaborn
 scipy
 scikit-learn
+sklearn.preprocessing
 rpy2
+requests
+beautifulsoup4
+lxml
 geopandas
+joblib
+plotly
+nbformat>=4.2.0
+plotly.express
+openpyxl
