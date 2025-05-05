@@ -12,4 +12,5 @@ In an age where misinformation spreads rapidly through algorithmic systems and p
 These indicators are combined with other established metrics (media freedom, education, civic participation) and synthesized via Principal Component Analysis (PCA) to generate a multidimensional vulnerability index.
 
 🎯 Research Question
+
 *RQ1: How does the current misinformation risk ranking from the Media Literacy Index (MLI) differ from a ranking that includes polarization and political unrest as indicators for misinformation vulnerability?*
